@@ -216,6 +216,7 @@ public class Battle {
                 return;
             } else if (f == 2) {
                 System.out.print("\n");
+                return;
             } else  {
                 System.out.print("Помилка введення!\n\n");
             }
